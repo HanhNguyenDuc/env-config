@@ -1,4 +1,4 @@
-module github.com/hanhnguyenduc/env-load
+module github.com/hanhnguyenduc/env-config
 
 go 1.16
 
